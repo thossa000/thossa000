@@ -2,5 +2,6 @@
 
 <h2>👨‍💻 IT Security Projects:</h2>
 <h3>Security Operations</h3>
-  - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive/Offensive Security through HackTheBox Lab Exercises</a> 
-  - <a href="https://medium.com/@tanzinh/using-nessus-essentials-to-secure-home-network-vulnerability-management-9dbd2477173e"> Configuring a Vulnerability Scanner for your Home Network</a> 
+  - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive/Offensive Security through HackTheBox Lab Exercises</a> <br>
+  - <a href="https://medium.com/@tanzinh/using-nessus-essentials-to-secure-home-network-vulnerability-management-9dbd2477173e"> Configuring a Vulnerability Scanner for your Home Network</a> <br>
+  - <a href="https://medium.com/@tanzinh/azure-sentinel-creating-map-with-live-attacks-siem-beginner-lab-480f55754723"> Beginner SIEM Honeypot Lab Exercise</a> 
