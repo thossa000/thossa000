@@ -8,4 +8,4 @@
 
 <h3>Governance, Risk, and Compliance</h3>
 - <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (PowerShell) (Coming Soon)</a> <br>
-- <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin groups Compliance Reporting (PowerShell) (Coming Soon)</a> <br>
+- <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (PowerShell) (Coming Soon)</a> <br>
