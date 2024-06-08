@@ -4,7 +4,7 @@
 <h3>Security Operations</h3>
   - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive/Offensive Security through Lab Exercises (HackTheBox)</a> <br>
   - <a href="https://medium.com/@tanzinh/using-nessus-essentials-to-secure-home-network-vulnerability-management-9dbd2477173e"> Configuring a Vulnerability Scanner for your Home Network (Nessus)</a> <br>
-  - <a href="https://medium.com/@tanzinh/azure-sentinel-creating-map-with-live-attacks-siem-beginner-lab-480f55754723"> Beginner SIEM Honeypot Lab Exercise (Azure Sentinel)</a> 
+  - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a> (Microsoft Sentinel) 
 
 <h3>Governance, Risk, and Compliance</h3>
 - <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (PowerShell) (Coming Soon)</a> <br>
