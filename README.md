@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Security Projects:</h2>
 <h3>Security Operations</h3>
   - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive/Offensive Security through Lab Exercises</a> (HackTheBox)<br>
-  - <a href="https://medium.com/@tanzinh/using-nessus-essentials-to-secure-home-network-vulnerability-management-9dbd2477173e"> Configuring a Vulnerability Scanner for your Home Network</a> (Tenable Nessus) <br>
+  - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Nessus%20Essentials%20Vulnerability%20Management%20Home%20Lab/README.md"> Configuring a Vulnerability Scanner for your Home Network</a> (Tenable Nessus) <br>
   - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a> (Microsoft Sentinel) 
 
 <h3>Governance, Risk, and Compliance</h3>
