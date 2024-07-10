@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Tanzin! <br/><a href="https://www.linkedin.com/in/tanzin-h/">Security Professional</a></h1>
 
-<h2>👨‍💻 IT Security Projects:</h2>
-
-<h3>Governance, Risk, and Compliance</h3>
-- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (PowerShell) (Coming Soon)</a> <br>
-- <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (PowerShell) (Coming Soon)</a> <br>
-- <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (PowerShell) (Coming Soon)</a> <br>
+<h2>👨‍💻 Software Development Projects::</h2>
+<h3>PowerShell Scripts</h3>
+- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
+- <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (Coming Soon)</a> <br>
+- <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (Coming Soon)</a> <br>
 
 <h3>Security Operations</h3>
   - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive/Offensive Security through Lab Exercises</a> (HackTheBox)<br>
