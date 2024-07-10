@@ -7,5 +7,6 @@
   - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a> (Microsoft Sentinel) 
 
 <h3>Governance, Risk, and Compliance</h3>
+- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (PowerShell) (Coming Soon)</a> <br>
 - <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (PowerShell) (Coming Soon)</a> <br>
 - <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (PowerShell) (Coming Soon)</a> <br>
