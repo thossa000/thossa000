@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <li><b>PowerShell Scripts</b></li>
 - <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
-- <!<- a href="https://github.com/thossa000/HackTheBox"> M365 Users MFA Enrolment Check Script (Coming Soon)</a> <br>
+- <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20MFA%20Status%20Report.ps1">M365 Users MFA Enrolment Check Script</a><br>
 - <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (Coming Soon)</a> <br>
 
 <h2>Security Operations Projects:</h2>
