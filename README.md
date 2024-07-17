@@ -8,9 +8,10 @@
 
 <h2>Security Operations Projects:</h2>
 <li><b>Digital Forensics and Incident Response</b></li>
- HackTheBox - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive Security through Lab Exercises</a><br> 
+ HackTheBox Labs - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive Security through Lab Exercises</a><br> 
 <li><b>Penetration Testing</b></li>
- HackTheBox - <a href="https://github.com/thossa000/HackTheBox"> Learning Offensive Security through Lab Exercises</a><br>
+ HackTheBox Labs - <a href="https://github.com/thossa000/HackTheBox"> Learning Offensive Security through Lab Exercises</a><br>
+ HackTheBox Academy - <a href="https://github.com/thossa000/HackTheBox?tab=readme-ov-file#security-learning---hackthebox-academy"> Learning Offensive Security through Training Modules</a><br>
 <li><b>Vulnerability Management</b></li>
  Tenable Nessus - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Nessus%20Essentials%20Vulnerability%20Management%20Home%20Lab/README.md"> Configuring a Vulnerability Scanner for your Home Network</a><br>
 <li><b>Incident Response</b></li>
