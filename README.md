@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <li><b>PowerShell Scripts</b></li>
-- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
-- <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20MFA%20Status%20Report.ps1">M365 Users MFA Enrolment Check</a><br>
+- <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20Accounts%20Inactivity%20Notification.ps1">Active Directory/Entra ID End-User Inactivity Reminder</a><br>
+- <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20MFA%20Status%20Report.ps1">M365 Users MFA Enrolment Status Check</a><br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/Azure%20B2B%20Users%20Last%20Login.ps1">Azure B2B User Last Activity Check</a><br>
 - <!<-a href="https://github.com/thossa000/HackTheBox"> Active Directory Admin Groups Compliance Reporting (Coming Soon)</a> <br>
+- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
 
 <h2>Security Operations Projects:</h2>
 <li><b>Digital Forensics and Incident Response</b></li>
