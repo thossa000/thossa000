@@ -7,6 +7,7 @@
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/Azure%20B2B%20Users%20Last%20Login.ps1">Azure B2B User Last Activity Check</a><br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/Admin%20Groups%20Hygiene%20Check.ps1"> Active Directory Admin Groups Membership Compliance Reporting</a> <br>
 - <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
+- <a href="https://github.com/thossa000/PowerShell-Scripts"> More</a> <br>
 
 <h2>Security Operations Projects:</h2>
 <li><b>Digital Forensics and Incident Response</b></li>
