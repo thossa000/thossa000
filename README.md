@@ -15,7 +15,7 @@
 <li><b>Incident Response</b></li>
 Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a>
 
-<h2>Hack The Box Notes</h2>
+<h2>HackTheBox Notes and Writeups</h2>
 <p align="center" width="100">
 
 
