@@ -10,13 +10,54 @@
 - <a href="https://github.com/thossa000/PowerShell-Scripts"> More</a> <br>
 
 <h2>Security Operations Projects:</h2>
-<li><b>Digital Forensics and Incident Response</b></li>
- HackTheBox Labs - <a href="https://github.com/thossa000/HackTheBox"> Learning Defensive Security through Lab Exercises</a><br> 
-<li><b>Penetration Testing</b></li>
- HackTheBox Labs - <a href="https://github.com/thossa000/HackTheBox"> Learning Offensive Security through Lab Exercises</a><br>
- HackTheBox Academy - <a href="https://github.com/thossa000/HackTheBox?tab=readme-ov-file#security-learning---hackthebox-academy"> Learning Offensive Security through Training Modules</a><br>
 <li><b>Vulnerability Management</b></li>
  Tenable Nessus - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Nessus%20Essentials%20Vulnerability%20Management%20Home%20Lab/README.md"> Configuring a Vulnerability Scanner for your Home Network</a><br>
 <li><b>Incident Response</b></li>
 Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a>
+
+<h2>Hack The Box Notes</h2>
+<p align="center" width="100">
+
+
+</p>
+
+<h3>Offensive Security - HackTheBox Labs</h3>
+
+> Machines
+
+
+|No.|Easy|Medium|Hard|
+|:-:|:-------:|:-------:|:-------:|
+|1. 
+|2. 
+|3. 
+|4. 
+|5. 
+
+
+
+
+
+<h3>Defensive Security - HackTheBox Labs</h3>
+
+> Sherlocks
+  
+  |No.|SOC|DFIR|Malware Analysis|Threat Intelligence|Campaign|
+  |:-:|:-:|:--:|:--------------:|:-----------------:|:------:|
+  |1. |[Meerkat]|[Jingle Bell]|
+  |2. |[]()|[Unit42]|
+  |3. |[]()|[BFT]|
+
+
+<h3>Security Learning - HackTheBox Academy</h3>
+
+> Modules
+
+|No.|Fundamental|Easy|Medium|
+|:-:|:-------:|:-------:|:-------:|
+|3. |[Web Requests](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/General/Web%20Requests)|
+|2. |[Introduction to Networking](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Networking/README.md)|
+|1. |[Linux Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Linux%20Fundamentals/README.md)|
+
+
 
