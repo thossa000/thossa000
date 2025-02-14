@@ -50,7 +50,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 > Modules
 
 |General|Offensive|Defensive|
-|:-------:|:-------:|:-------:|
+|:-----:|:-------:|:-------:|
 |[Web Requests](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/General/Web%20Requests)|
 |[Introduction to Networking](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Networking/README.md)|
 |[Linux Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Linux%20Fundamentals/README.md)|
