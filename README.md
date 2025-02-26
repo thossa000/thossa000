@@ -6,7 +6,6 @@
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20MFA%20Status%20Report.ps1">M365 Users MFA Enrolment Status Check</a><br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/Azure%20B2B%20Users%20Last%20Login.ps1">Azure B2B User Last Activity Check</a><br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/Admin%20Groups%20Hygiene%20Check.ps1"> Active Directory Admin Groups Membership Compliance Reporting</a> <br>
-- <!<-a href="https://github.com/thossa000/HackTheBox"> Privilege Accounts Access Audit Script (Coming Soon)</a> <br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts"> More</a> <br>
 
 <h2>Security Operations Projects:</h2>
@@ -53,6 +52,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 |:-----:|:-------:|:-------:|
 |[Introduction to Bash Scripting](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Bash%20Scripting/README.md)|
 |[Web Requests](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/General/Web%20Requests/README.md)|
+|[Introduction to Active Directory]()|
 |[Introduction to Networking](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Networking/README.md)|
 |[Windows Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Windows%20Fundamentals/README.md)|
 |[Linux Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Linux%20Fundamentals/README.md)|
