@@ -42,6 +42,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
   |[Meerkat]|[Jingle Bell]|
   |[]()|[Unit42]|
   |[]()|[BFT]|
+  ||[Campfire-1](https://github.com/thossa000/HackTheBox/blob/main/Sherlocks/Campfire-1/README.md)|
 
 
 <h2>Security Learning Notes</h2>
