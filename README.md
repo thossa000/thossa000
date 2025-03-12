@@ -39,7 +39,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
   
   |SOC|DFIR|Malware Analysis|Threat Intelligence|Campaign|
   |:-:|:--:|:--------------:|:-----------------:|:------:|
-  |[Meerkat]|[Jingle Bell]|
+  |[Meerkat](https://github.com/thossa000/HackTheBox/blob/main/Sherlocks/Meerkat/README.md)|[Jingle Bell]|
   |[]()|[Unit42]|
   |[]()|[BFT]|
   ||[Campfire-1](https://github.com/thossa000/HackTheBox/blob/main/Sherlocks/Campfire-1/README.md)|
