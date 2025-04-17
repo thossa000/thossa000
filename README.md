@@ -14,37 +14,6 @@
 <li><b>Incident Response</b></li>
 Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a>
 
-<h2>HackTheBox Writeups</h2>
-<p align="center" width="100">
-
-
-</p>
-
-<h3>Offensive Security - HackTheBox Labs</h3>
-
-> Machines
-
-
-|Easy|Medium|Hard|
-|:-------:|:-------:|:-------:|
-
-
-
-
-
-
-<h3>Defensive Security - HackTheBox Labs</h3>
-
-> Sherlocks
-  
-  |SOC|DFIR|Malware Analysis|Threat Intelligence|Campaign|
-  |:-:|:--:|:--------------:|:-----------------:|:------:|
-  |[Meerkat](https://github.com/thossa000/HackTheBox/blob/main/Sherlocks/Meerkat/README.md)|[Jingle Bell]|
-  |[]()|[Unit42]|
-  |[]()|[BFT]|
-  ||[Campfire-1](https://github.com/thossa000/HackTheBox/blob/main/Sherlocks/Campfire-1/README.md)|
-
-
 <h2>Security Learning Notes</h2>
 
 |General|Offensive|Defensive|
