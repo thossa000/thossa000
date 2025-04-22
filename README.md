@@ -27,6 +27,6 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 |[Linux Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Linux%20Fundamentals/README.md)|
 
 <h2>Certification Learning Notes</h2>
-- <a href="https://github.com/thossa000/Certification-Prep/tree/main/CISSP/Domain%201%20-%20Security%20and%20Risk%20Management">CISSP: Certified Information Systems Security Professional</a><br>
+- <a href="https://github.com/thossa000/Certification-Prep/tree/main/CISSP">CISSP: Certified Information Systems Security Professional</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/ISO%2027001%3A2022%20Lead%20Auditor">ISO 27001:2022 Lead Auditor</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/AZ-104%3A%20Azure%20Administrator%20Associate">AZ-104: Azure Administrator Associate</a><br>
