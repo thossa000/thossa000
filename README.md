@@ -18,7 +18,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 
 |General|Offensive|Defensive|
 |:-----:|:-------:|:-------:|
-|[Introduction to Bash Scripting](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Bash%20Scripting/README.md)||[JavaScript Deobfuscation](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Defensive/JavaScript%20Deobfuscation/README.md)|
+|[Introduction to Bash Scripting](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Bash%20Scripting/README.md)|[SQL Injection Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Offensive/SQL%20Injection%20Fundamentals/README.md)|[JavaScript Deobfuscation](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Defensive/JavaScript%20Deobfuscation/README.md)|
 |[Web Requests](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/General/Web%20Requests/README.md)|
 |[Introduction to Active Directory](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Active%20Directory/README.md)|
 |[Intro to Network Traffic Analysis](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Intro%20to%20Network%20Traffic%20Analysis/README.md)|
