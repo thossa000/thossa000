@@ -18,7 +18,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 
 |General|Offensive|Defensive|
 |:-----:|:-------:|:-------:|
-|[Security Incident Reporting]|[Windows Attacks & Defense]|[Detecting Windows Attacks with Splunk]
+|[Security Incident Reporting]|[Windows Attacks & Defense](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Offensive/Windows%20Attacks%20%26%20Defense/README.md)|[Detecting Windows Attacks with Splunk]
 |[Intro to Bash Scripting](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Bash%20Scripting/README.md)|[SQL Injection Fundamentals](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Offensive/SQL%20Injection%20Fundamentals/README.md)|[Introduction to Digital Forensics]
 |[Web Requests](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/General/Web%20Requests/README.md)||[YARA & Sigma for SOC Analysts]
 |[Intro to Active Directory](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/General/Introduction%20to%20Active%20Directory/README.md)||[JavaScript Deobfuscation](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Defensive/JavaScript%20Deobfuscation/README.md)|
