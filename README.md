@@ -8,13 +8,13 @@
 - <a href="https://github.com/thossa000/PowerShell-Scripts/blob/main/User%20MFA%20Status%20Report.ps1">M365 Users MFA Enrolment Status Check</a><br>
 - <a href="https://github.com/thossa000/PowerShell-Scripts"> More</a> <br>
 
-<h2>Security Operations Projects:</h2>
+<h2>🕵️ Security Operations Projects:</h2>
 <li><b>Vulnerability Management</b></li>
  Tenable Nessus - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Nessus%20Essentials%20Vulnerability%20Management%20Home%20Lab/README.md"> Configuring a Vulnerability Scanner for your Home Network</a><br>
 <li><b>Incident Response</b></li>
 Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/main/Beginner%20SIEM%20Honeypot%20Lab/README.md"> Beginner SIEM Honeypot Lab Exercise</a>
 
-<h2>Security Learning Notes</h2>
+<h2>📝 Security Learning Notes</h2>
 
 |General|Offensive|Defensive|
 |:-----:|:-------:|:-------:|
@@ -31,7 +31,7 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 |||[Incident Handling Process](https://github.com/thossa000/HackTheBox/blob/main/Learning%20Modules/Defensive/Incident%20Handling%20Process/README.md)| 
 |||[Security Monitoring & SIEM Fundamentals](https://github.com/thossa000/HackTheBox/tree/main/Learning%20Modules/Defensive/Security%20Monitoring%20&%20SIEM%20Fundamentals)|
 
-<h2>Certification Learning Notes</h2>
+<h2>📚 Certification Learning Notes</h2>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/CISSP">CISSP: Certified Information Systems Security Professional</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/ISO%2027001%3A2022%20Lead%20Auditor">ISO 27001:2022 Lead Auditor</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/AZ-104%3A%20Azure%20Administrator%20Associate">AZ-104: Azure Administrator Associate</a><br>
