@@ -35,3 +35,4 @@ Microsoft Sentinel - <a href="https://github.com/thossa000/Knowledge-Base/blob/m
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/CISSP">CISSP: Certified Information Systems Security Professional</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/ISO%2027001%3A2022%20Lead%20Auditor">ISO 27001:2022 Lead Auditor</a><br>
 - <a href="https://github.com/thossa000/Certification-Prep/tree/main/AZ-104%3A%20Azure%20Administrator%20Associate">AZ-104: Azure Administrator Associate</a><br>
+- <a href="https://github.com/thossa000/Certification-Prep/tree/main/Zscaler%20Digital%20Transformation%20Administrator">ZDTA: Zscaler Digital Transformation Administrator</a><br>
